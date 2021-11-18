@@ -20,8 +20,8 @@
 |107|2021/11/15|[预言耶路撒冷被毁和人子降临](https://carmelbible.sgp1.digitaloceanspaces.com/202111/Luke107.mp3)|路21: 20-28|
 |108|2021/11/16|[无花果树的预言](https://carmelbible.sgp1.digitaloceanspaces.com/202111/Luke108.mp3)|路21: 29-33|
 |109|2021/11/17|[劝告门徒警醒](https://carmelbible.sgp1.digitaloceanspaces.com/202111/Luke109.mp3)|路21: 34-38|
-|110|2021/11/18|图谋杀害耶稣与最后的宴席|路22: 1-13|
-|111|2021/11/19|设立圣餐|路22: 14-23|
+|110|2021/11/18|图谋杀害耶稣与最后的宴席(https://carmelbible.sgp1.digitaloceanspaces.com/202111/Luke110.mp3)|路22: 1-13|
+|111|2021/11/19|设立圣餐(https://carmelbible.sgp1.digitaloceanspaces.com/202111/Luke111.mp3)|路22: 14-23|
 |112|2021/11/20|谁为大|路22: 24-30|
 |113|2021/11/21|预告彼得不认主和差遣|路22: 31-38|
 |114|2021/11/22|在橄榄山上祷告|路22: 39-46|
