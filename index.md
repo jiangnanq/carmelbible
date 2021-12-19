@@ -19,9 +19,9 @@
 |136|2021/12/14|[门徒祷告与凡物公用](https://carmelbible.sgp1.digitaloceanspaces.com/202112/Act136.mp3)|使4: 23-37|
 |137|2021/12/15|[亚拿尼亚与撒非喇](https://carmelbible.sgp1.digitaloceanspaces.com/202112/Act137.mp3)|使5: 1-11|
 |138|2021/12/16|[神迹奇事](https://carmelbible.sgp1.digitaloceanspaces.com/202112/Act138.mp3)|使5: 12-16|
-|139|2021/12/17|使徒受逼迫|使5: 17-42|
-|140|2021/12/18|拣选执事|使6: 1-7|
-|141|2021/12/19|司提反被捕|使6: 8-15|
+|139|2021/12/17|[使徒受逼迫](https://carmelbible.sgp1.digitaloceanspaces.com/202112/Act139.mp3)|使5: 17-42|
+|140|2021/12/18|[拣选执事](https://carmelbible.sgp1.digitaloceanspaces.com/202112/Act140.mp3)|使6: 1-7|
+|141|2021/12/19|[司提反被捕](https://carmelbible.sgp1.digitaloceanspaces.com/202112/Act141.mp3)|使6: 8-15|
 |142|2021/12/20|司提反的申诉|使7: 1-53|
 |143|2021/12/21|司提反殉道|使7: 54-60|
 |144|2021/12/22|福音传到撒马利亚|使8: 1-25|
