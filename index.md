@@ -21,8 +21,8 @@
 |169|2022/01/16|[保罗故地重访](https://carmelbible.sgp1.digitaloceanspaces.com/202201/Act169.mp3)|使20: 1-16|
 |170|2022/01/17|[保罗对以弗所长老的临别赠言](https://carmelbible.sgp1.digitaloceanspaces.com/202201/Act170.mp3)|使20: 17-38|
 |171|2022/01/18|[保罗在耶路撒冷](https://carmelbible.sgp1.digitaloceanspaces.com/202201/Act171.mp3)|使21: 1-16|
-|172|2022/01/19|保罗访问雅各|使21: 17-26|
-|173|2022/01/20|保罗被捕|使21: 27-36|
+|172|2022/01/19|[保罗访问雅各](https://carmelbible.sgp1.digitaloceanspaces.com/202201/Act172.mp3)|使21: 17-26|
+|173|2022/01/20|[保罗被捕](https://carmelbible.sgp1.digitaloceanspaces.com/202201/Act173.mp3)|使21: 27-36|
 |174|2022/01/21|保罗的辩护|使21: 37- 22:2|
 |175|2022/01/22|保罗在工会的辩护|使22: 30- 23:1|
 |176|2022/01/23|保罗被押往该撒利亚|使23: 12-35|
