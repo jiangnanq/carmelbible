@@ -8,10 +8,10 @@
 |187|2022/02/3|[问安与提醒](https://carmelbible.sgp1.digitaloceanspaces.com/202202/Gal187.mp3)|加 1:1-10|
 |188|2022/02/4|[保罗如何成为使徒](https://carmelbible.sgp1.digitaloceanspaces.com/202202/Gal188.mp3)|加 1:11-24|
 |189|2022/02/5|[保罗的使徒身份被接纳](https://carmelbible.sgp1.digitaloceanspaces.com/202202/Gal189.mp3)|加 2:1-10|
-|190|2022/02/6|保罗在安提阿责备彼得|加 2:11-14|
-|191|2022/02/7|因信得救|加 2:15-21|
-|192|2022/02/8|律法和信心|加 3:1-14|
-|193|2022/02/9|律法和应许|加 3:15-20|
+|190|2022/02/6|[保罗在安提阿责备彼得](https://carmelbible.sgp1.digitaloceanspaces.com/202202/Gal190.mp3)|加 2:11-14|
+|191|2022/02/7|[因信得救](https://carmelbible.sgp1.digitaloceanspaces.com/202202/Gal191.mp3)|加 2:15-21|
+|192|2022/02/8|[律法和信心](https://carmelbible.sgp1.digitaloceanspaces.com/202202/Gal192.mp3)|加 3:1-14|
+|193|2022/02/9|[律法和应许](https://carmelbible.sgp1.digitaloceanspaces.com/202202/Gal193.mp3)|加 3:15-20|
 |194|2022/02/10|奴仆与儿子|加 3:21- 4:7|
 |195|2022/02/11|保罗关心加拉太人|加 4:8-20|
 |196|2022/02/12|夏甲和撒拉的预表|加 4:21-31|
