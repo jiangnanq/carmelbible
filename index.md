@@ -12,9 +12,9 @@
 |191|2022/02/7|[因信得救](https://carmelbible.sgp1.digitaloceanspaces.com/202202/Gal191.mp3)|加 2:15-21|
 |192|2022/02/8|[律法和信心](https://carmelbible.sgp1.digitaloceanspaces.com/202202/Gal192.mp3)|加 3:1-14|
 |193|2022/02/9|[律法和应许](https://carmelbible.sgp1.digitaloceanspaces.com/202202/Gal193.mp3)|加 3:15-20|
-|194|2022/02/10|奴仆与儿子|加 3:21- 4:7|
-|195|2022/02/11|保罗关心加拉太人|加 4:8-20|
-|196|2022/02/12|夏甲和撒拉的预表|加 4:21-31|
+|194|2022/02/10|[奴仆与儿子](https://carmelbible.sgp1.digitaloceanspaces.com/202202/Gal194.mp3)|加 3:21- 4:7|
+|195|2022/02/11|[保罗关心加拉太人](https://carmelbible.sgp1.digitaloceanspaces.com/202202/Gal195.mp3)|加 4:8-20|
+|196|2022/02/12|[夏甲和撒拉的预表](https://carmelbible.sgp1.digitaloceanspaces.com/202202/Gal196.mp3)|加 4:21-31|
 |197|2022/02/13|基督徒的自由|加 5:1-15|
 |198|2022/02/14|圣灵的果子|加 5:16-26|
 |199|2022/02/15|互相分担重担|加 6:1-10|
