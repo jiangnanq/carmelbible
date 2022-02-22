@@ -21,10 +21,10 @@
 |200|2022/02/16|[保罗的劝勉](https://carmelbible.sgp1.digitaloceanspaces.com/202202/200.mp3)|加 6:11-18|
 |201|2022/02/17|[帖撒罗尼迦前书](https://carmelbible.sgp1.digitaloceanspaces.com/202202/201.mp3)|简介|
 |202|2022/02/18|[问候与称赞](https://carmelbible.sgp1.digitaloceanspaces.com/202202/202.mp3)|帖前 1:1-10|
-|203|2022/02/19|保罗曾在帖撒罗尼迦教会|帖前 2:1-16|
-|204|2022/02/20|保罗希望重访帖撒罗尼迦|帖前 2:17- 3:13|
-|205|2022/02/21|神所悦纳的生活|帖前 4:1-12|
-|206|2022/02/22|死人复活|帖前 4:13-18|
+|203|2022/02/19|[保罗曾在帖撒罗尼迦教会](https://carmelbible.sgp1.digitaloceanspaces.com/202202/203.mp3)|帖前 2:1-16|
+|204|2022/02/20|[保罗希望重访帖撒罗尼迦](https://carmelbible.sgp1.digitaloceanspaces.com/202202/204.mp3)|帖前 2:17- 3:13|
+|205|2022/02/21|[神所悦纳的生活](https://carmelbible.sgp1.digitaloceanspaces.com/202202/205.mp3)|帖前 4:1-12|
+|206|2022/02/22|[死人复活](https://carmelbible.sgp1.digitaloceanspaces.com/202202/206.mp3)|帖前 4:13-18|
 |207|2022/02/23|主来的日子|帖前 5:1-11|
 |208|2022/02/24|劝勉与祝福|帖前 5:12-28|
 |209|2022/02/25|帖撒罗尼迦后书|简介|
