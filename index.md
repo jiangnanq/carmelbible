@@ -7,10 +7,10 @@
 |214|2022/03/2|[管戒懒惰的人与祝福](https://carmelbible.sgp1.digitaloceanspaces.com/202203/214.mp3)|帖后3:6-18|
 |215|2022/03/3|[罗马书](https://carmelbible.sgp1.digitaloceanspaces.com/202203/215.mp3)|简介|
 |216|2022/03/4|[问候与祝愿](https://carmelbible.sgp1.digitaloceanspaces.com/202203/216.mp3)|罗1:1-7|
-|217|2022/03/5|保罗希望到罗马传扬福音|罗1:8-17|
-|218|2022/03/6|人类的罪恶|罗1:18-32|
-|219|2022/03/7|神的公义审判|罗2:1-16|
-|220|2022/03/8|犹太人与律法|罗2:17-29|
+|217|2022/03/5|[保罗希望到罗马传扬福音](https://carmelbible.sgp1.digitaloceanspaces.com/202203/217.mp3)|罗1:8-17|
+|218|2022/03/6|[人类的罪恶](https://carmelbible.sgp1.digitaloceanspaces.com/202203/218.mp3)|罗1:18-32|
+|219|2022/03/7|[神的公义审判](https://carmelbible.sgp1.digitaloceanspaces.com/202203/219.mp3)|罗2:1-16|
+|220|2022/03/8|[犹太人与律法](https://carmelbible.sgp1.digitaloceanspaces.com/202203/220.mp3)|罗2:17-29|
 |221|2022/03/9|不信与信，神的公义|罗3:1-8|
 |222|2022/03/10|没有义人|罗3:9-20|
 |223|2022/03/11|因信称义|罗3:21-31|
