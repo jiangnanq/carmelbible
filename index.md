@@ -26,8 +26,8 @@
 |233|2022/03/21|[将来的荣耀](https://carmelbible.sgp1.digitaloceanspaces.com/202203/233.mp3)|罗8:18-30|
 |234|2022/03/22|[不能与神的爱隔绝](https://carmelbible.sgp1.digitaloceanspaces.com/202203/234.mp3)|罗8:31-39|
 |235|2022/03/23|[神拣选以色列人](https://carmelbible.sgp1.digitaloceanspaces.com/202203/235.mp3)|罗9:1-18|
-|236|2022/03/24|神的愤怒与怜悯|罗9:19-33|
-|237|2022/03/25|求告主名的必得救|罗10:1-21|
+|236|2022/03/24|[神的愤怒与怜悯](https://carmelbible.sgp1.digitaloceanspaces.com/202203/236.mp3)|罗9:19-33|
+|237|2022/03/25|[求告主名的必得救](https://carmelbible.sgp1.digitaloceanspaces.com/202203/237.mp3)|罗10:1-21|
 |238|2022/03/26|以色列的余民|罗11:1-10|
 |239|2022/03/27|外邦人得救|罗11:11-24|
 |240|2022/03/28|全以色列人都将得救|罗11:25-26|
