@@ -16,9 +16,9 @@
 |223|2022/03/11|[因信称义](https://carmelbible.sgp1.digitaloceanspaces.com/202203/223.mp3)|罗3:21-31|
 |224|2022/03/12|[亚伯拉罕信心的榜样](https://carmelbible.sgp1.digitaloceanspaces.com/202203/224.mp3)|罗4:1-12|
 |225|2022/03/13|[应许因信而实现](https://carmelbible.sgp1.digitaloceanspaces.com/202203/225.mp3)|罗4:13-25|
-|226|2022/03/14|因信称义的福|罗5:1-11|
-|227|2022/03/15|亚当与基督|罗5:12-21|
-|228|2022/03/16|在罪上死，在基督里活|罗6:1-14|
+|226|2022/03/14|[因信称义的福](https://carmelbible.sgp1.digitaloceanspaces.com/202203/226.mp3)|罗5:1-11|
+|227|2022/03/15|[亚当与基督](https://carmelbible.sgp1.digitaloceanspaces.com/202203/227.mp3)|罗5:12-21|
+|228|2022/03/16|[在罪上死，在基督里活](https://carmelbible.sgp1.digitaloceanspaces.com/202203/228.mp3)|罗6:1-14|
 |229|2022/03/17|[义的奴仆](https://carmelbible.sgp1.digitaloceanspaces.com/202203/229.mp3)|罗6:15-23|
 |230|2022/03/18|[律法与罪](https://carmelbible.sgp1.digitaloceanspaces.com/202203/230.mp3)|罗7:1-13|
 |231|2022/03/19|[灵与肉的交战](https://carmelbible.sgp1.digitaloceanspaces.com/202203/231.mp3)|罗7:14-25|
