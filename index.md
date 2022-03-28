@@ -28,10 +28,10 @@
 |235|2022/03/23|[神拣选以色列人](https://carmelbible.sgp1.digitaloceanspaces.com/202203/235.mp3)|罗9:1-18|
 |236|2022/03/24|[神的愤怒与怜悯](https://carmelbible.sgp1.digitaloceanspaces.com/202203/236.mp3)|罗9:19-33|
 |237|2022/03/25|[求告主名的必得救](https://carmelbible.sgp1.digitaloceanspaces.com/202203/237.mp3)|罗10:1-21|
-|238|2022/03/26|以色列的余民|罗11:1-10|
-|239|2022/03/27|外邦人得救|罗11:11-24|
-|240|2022/03/28|全以色列人都将得救|罗11:25-26|
-|241|2022/03/29|基督里的新生活|罗12:1-8|
+|238|2022/03/26|[以色列的余民](https://carmelbible.sgp1.digitaloceanspaces.com/202203/238.mp3)|罗11:1-10|
+|239|2022/03/27|[外邦人得救](https://carmelbible.sgp1.digitaloceanspaces.com/202203/239.mp3)|罗11:11-24|
+|240|2022/03/28|[全以色列人都将得救](https://carmelbible.sgp1.digitaloceanspaces.com/202203/240.mp3)|罗11:25-26|
+|241|2022/03/29|[基督里的新生活](https://carmelbible.sgp1.digitaloceanspaces.com/202203/241.mp3)|罗12:1-8|
 |242|2022/03/30|基督徒的生活守则|罗12:9-21|
 |243|2022/03/31|顺服掌权者|罗13:1-7|
 
