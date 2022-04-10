@@ -11,7 +11,7 @@
 |248|2022/04/5|[要叫邻舍喜悦](https://carmelbible.sgp1.digitaloceanspaces.com/202204/248.mp3)|罗15:1-6|
 |249|2022/04/6|[神的福音一视同仁](https://carmelbible.sgp1.digitaloceanspaces.com/202204/249.mp3)|罗15:7-21|
 |250|2022/04/7|[保罗计划访问罗马](https://carmelbible.sgp1.digitaloceanspaces.com/202204/250.mp3)|罗15:22-23|
-|251|2022/04/8|[问安|罗16:1-23](https://carmelbible.sgp1.digitaloceanspaces.com/202204/251.mp3)|罗16:1-23|
+|251|2022/04/8|[问安](https://carmelbible.sgp1.digitaloceanspaces.com/202204/251.mp3)|罗16:1-23|
 |252|2022/04/9|[最后的颂赞](https://carmelbible.sgp1.digitaloceanspaces.com/202204/252.mp3)|罗16:25-27|
 |253|2022/04/10|[林前简介](https://carmelbible.sgp1.digitaloceanspaces.com/202204/253.mp3)||
 |254|2022/04/11|问安与祝福|林前1:1-9|
