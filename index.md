@@ -18,8 +18,8 @@
 |255|2022/04/12|[不应结党纷争](https://carmelbible.sgp1.digitaloceanspaces.com/202204/255.mp3)|林前1:10-17|
 |256|2022/04/13|[基督是神的能力与智慧](https://carmelbible.sgp1.digitaloceanspaces.com/202204/256.mp3)|林前1:18-31|
 |257|2022/04/14|[钉十字架的基督](https://carmelbible.sgp1.digitaloceanspaces.com/202204/257.mp3)|林前2:1-16|
-|258|2022/04/15|神的同工|林前3:1-23|
-|259|2022/04/16|使徒的工作|林前4:1-21|
+|258|2022/04/15|[神的同工](https://carmelbible.sgp1.digitaloceanspaces.com/202204/258.mp3)|林前3:1-23|
+|259|2022/04/16|[使徒的工作](https://carmelbible.sgp1.digitaloceanspaces.com/202204/259.mp3)|林前4:1-21|
 |260|2022/04/17|教会中不容忍淫乱的事|林前5:1-13|
 |261|2022/04/18|信徒不要彼此告状|林前6:1-11|
 |262|2022/04/19|在身子上荣耀神|林前6:12-20|
