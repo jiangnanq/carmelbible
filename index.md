@@ -24,9 +24,9 @@
 |261|2022/04/18|[信徒不要彼此告状](https://carmelbible.sgp1.digitaloceanspaces.com/202204/261.mp3)|林前6:1-11|
 |262|2022/04/19|[在身子上荣耀神](https://carmelbible.sgp1.digitaloceanspaces.com/202204/262.mp3)|林前6:12-20|
 |263|2022/04/20|[论婚姻](https://carmelbible.sgp1.digitaloceanspaces.com/202204/263.mp3)|林前7:1-16|
-|264|2022/04/21|保持原有身份|林前7:17-24|
-|265|2022/04/22|未婚与寡居|林前7:25-40|
-|266|2022/04/23|论祭偶像的物|林前8:1-13|
+|264|2022/04/21|[保持原有身份](https://carmelbible.sgp1.digitaloceanspaces.com/202204/264.mp3)|林前7:17-24|
+|265|2022/04/22|[未婚与寡居](https://carmelbible.sgp1.digitaloceanspaces.com/202204/265.mp3)|林前7:25-40|
+|266|2022/04/23|[论祭偶像的物](https://carmelbible.sgp1.digitaloceanspaces.com/202204/266.mp3)|林前8:1-13|
 |267|2022/04/24|论使徒的权利|林前9:1-27|
 |268|2022/04/25|警戒拜偶像的事|林前10:1-22|
 |269|2022/04/26|凡事为荣耀神而行|林前10:23- 11:1|
