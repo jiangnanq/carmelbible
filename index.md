@@ -27,9 +27,9 @@
 |264|2022/04/21|[保持原有身份](https://carmelbible.sgp1.digitaloceanspaces.com/202204/264.mp3)|林前7:17-24|
 |265|2022/04/22|[未婚与寡居](https://carmelbible.sgp1.digitaloceanspaces.com/202204/265.mp3)|林前7:25-40|
 |266|2022/04/23|[论祭偶像的物](https://carmelbible.sgp1.digitaloceanspaces.com/202204/266.mp3)|林前8:1-13|
-|267|2022/04/24|论使徒的权利|林前9:1-27|
-|268|2022/04/25|警戒拜偶像的事|林前10:1-22|
-|269|2022/04/26|凡事为荣耀神而行|林前10:23- 11:1|
+|267|2022/04/24|[论使徒的权利](https://carmelbible.sgp1.digitaloceanspaces.com/202204/267.mp3)|林前9:1-27|
+|268|2022/04/25|[警戒拜偶像的事](https://carmelbible.sgp1.digitaloceanspaces.com/202204/268.mp3)|林前10:1-22|
+|269|2022/04/26|[凡事为荣耀神而行](https://carmelbible.sgp1.digitaloceanspaces.com/202204/269.mp3)|林前10:23- 11:1|
 |270|2022/04/27|蒙头的事|林前11:2-16|
 |271|2022/04/28|论圣餐|林前11:17-34|
 |272|2022/04/29|属灵的恩赐|林前12:1-11|
