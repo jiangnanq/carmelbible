@@ -30,9 +30,9 @@
 |267|2022/04/24|[论使徒的权利](https://carmelbible.sgp1.digitaloceanspaces.com/202204/267.mp3)|林前9:1-27|
 |268|2022/04/25|[警戒拜偶像的事](https://carmelbible.sgp1.digitaloceanspaces.com/202204/268.mp3)|林前10:1-22|
 |269|2022/04/26|[凡事为荣耀神而行](https://carmelbible.sgp1.digitaloceanspaces.com/202204/269.mp3)|林前10:23- 11:1|
-|270|2022/04/27|蒙头的事|林前11:2-16|
-|271|2022/04/28|论圣餐|林前11:17-34|
-|272|2022/04/29|属灵的恩赐|林前12:1-11|
+|270|2022/04/27|[蒙头的事](https://carmelbible.sgp1.digitaloceanspaces.com/202204/270.mp3)|林前11:2-16|
+|271|2022/04/28|[论圣餐](https://carmelbible.sgp1.digitaloceanspaces.com/202204/271.mp3)|林前11:17-34|
+|272|2022/04/29|[属灵的恩赐](https://carmelbible.sgp1.digitaloceanspaces.com/202204/272.mp3)|林前12:1-11|
 |273|2022/04/30|身体与肢体|林前12:12-31|
 
 
