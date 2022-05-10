@@ -9,11 +9,11 @@
 |277|2022/05/4|[基督的复活](https://carmelbible.sgp1.digitaloceanspaces.com/202205/277.mp3)|林前15:1-11|
 |278|2022/05/5|[死人复活](https://carmelbible.sgp1.digitaloceanspaces.com/202205/278.mp3)|林前15:12-34|
 |279|2022/05/6|[复活的身体](https://carmelbible.sgp1.digitaloceanspaces.com/202205/279.mp3)|林前15:35-58|
-|280|2022/05/7|捐献与行程|林前16:1-12|
-|281|2022/05/8|劝勉与问安|林前16:13-24|
-|282|2022/05/9|林后简介||
-|283|2022/05/10|问候与感恩|林后1:1-11|
-|284|2022/05/11|延后访问哥林多|林后1:12-2:4|
+|280|2022/05/7|[捐献与行程](https://carmelbible.sgp1.digitaloceanspaces.com/202205/280.mp3)|林前16:1-12|
+|281|2022/05/8|[劝勉与问安](https://carmelbible.sgp1.digitaloceanspaces.com/202205/281.mp3)|林前16:13-24|
+|282|2022/05/9|[林后简介](https://carmelbible.sgp1.digitaloceanspaces.com/202205/282.mp3)||
+|283|2022/05/10|[问候与感恩](https://carmelbible.sgp1.digitaloceanspaces.com/202205/283.mp3)|林后1:1-11|
+|284|2022/05/11|[延后访问哥林多](https://carmelbible.sgp1.digitaloceanspaces.com/202205/284.mp3)|林后1:12-2:4|
 |285|2022/05/12|赦免有过犯的人|林后2:5-11|
 |286|2022/05/13|保罗的忧愁与安慰|林后2:12-17|
 |287|2022/05/14|新约的执事|林后3:1-18|
