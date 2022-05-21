@@ -22,8 +22,8 @@
 |290|2022/05/17|[劝人与神和好](https://carmelbible.sgp1.digitaloceanspaces.com/202205/290.mp3)|林后5:11-21|
 |291|2022/05/18|[与神同工的劝导](https://carmelbible.sgp1.digitaloceanspaces.com/202205/291.mp3)|林后6:1-13|
 |292|2022/05/19|[永生神的殿](https://carmelbible.sgp1.digitaloceanspaces.com/202205/292.mp3)|林后6:14-18|
-|293|2022/05/20|为哥林多人的悔改感恩|林后7:1-16|
-|294|2022/05/21|捐助|林后8:1-15|
+|293|2022/05/20|[为哥林多人的悔改感恩](https://carmelbible.sgp1.digitaloceanspaces.com/202205/293.mp3)|林后7:1-16|
+|294|2022/05/21|[捐助](https://carmelbible.sgp1.digitaloceanspaces.com/202205/294.mp3)|林后8:1-15|
 |295|2022/05/22|提多和他的同工|林后8:16-24|
 |296|2022/05/23|帮助圣徒的捐助|林后9:1-15|
 |297|2022/05/24|保罗的辩护|林后10:1-18|
