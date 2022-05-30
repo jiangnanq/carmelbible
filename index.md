@@ -24,16 +24,16 @@
 |292|2022/05/19|[永生神的殿](https://carmelbible.sgp1.digitaloceanspaces.com/202205/292.mp3)|林后6:14-18|
 |293|2022/05/20|[为哥林多人的悔改感恩](https://carmelbible.sgp1.digitaloceanspaces.com/202205/293.mp3)|林后7:1-16|
 |294|2022/05/21|[捐助](https://carmelbible.sgp1.digitaloceanspaces.com/202205/294.mp3)|林后8:1-15|
-|295|2022/05/22|提多和他的同工|林后8:16-24|
-|296|2022/05/23|帮助圣徒的捐助|林后9:1-15|
-|297|2022/05/24|保罗的辩护|林后10:1-18|
-|298|2022/05/25|假使徒|林后11:1-15|
-|299|2022/05/26|保罗的苦难|林后11:16-33|
-|300|2022/05/27|异象和启示|林后12:1-10|
-|301|2022/05/28|对哥林多的关心|林后12:11-21|
-|302|2022/05/29|劝诫与问候|林后13:1-14|
-|303|2022/05/30|以弗所书简介||
-|304|2022/05/31|问候与所蒙的福气|弗1:1-14|
+|295|2022/05/22|[提多和他的同工](https://carmelbible.sgp1.digitaloceanspaces.com/202205/295.mp3)|林后8:16-24|
+|296|2022/05/23|[帮助圣徒的捐助](https://carmelbible.sgp1.digitaloceanspaces.com/202205/296.mp3)|林后9:1-15|
+|297|2022/05/24|[保罗的辩护](https://carmelbible.sgp1.digitaloceanspaces.com/202205/297.mp3)|林后10:1-18|
+|298|2022/05/25|[假使徒](https://carmelbible.sgp1.digitaloceanspaces.com/202205/298.mp3)|林后11:1-15|
+|299|2022/05/26|[保罗的苦难](https://carmelbible.sgp1.digitaloceanspaces.com/202205/299.mp3)|林后11:16-33|
+|300|2022/05/27|[异象和启示](https://carmelbible.sgp1.digitaloceanspaces.com/202205/300.mp3)|林后12:1-10|
+|301|2022/05/28|[对哥林多的关心](https://carmelbible.sgp1.digitaloceanspaces.com/202205/301.mp3)|林后12:11-21|
+|302|2022/05/29|[劝诫与问候](https://carmelbible.sgp1.digitaloceanspaces.com/202205/302.mp3)|林后13:1-14|
+|303|2022/05/30|[以弗所书简介](https://carmelbible.sgp1.digitaloceanspaces.com/202205/303.mp3)||
+|304|2022/05/31|[问候与所蒙的福气](https://carmelbible.sgp1.digitaloceanspaces.com/202205/304.mp3)|弗1:1-14|
 
 ### 历史音频
 
