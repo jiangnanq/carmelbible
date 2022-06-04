@@ -6,7 +6,7 @@
 |305|2022/06/1|[保罗的祷告](https://carmelbible.sgp1.digitaloceanspaces.com/202206/305.mp3)|弗1:15-23|
 |306|2022/06/2|[出生入死](https://carmelbible.sgp1.digitaloceanspaces.com/202206/306.mp3)|弗2:1-10|
 |307|2022/06/3|[在基督里合一](https://carmelbible.sgp1.digitaloceanspaces.com/202206/307.mp3)|弗2:11-22|
-|308|2022/06/4|奉差向外邦人传福音|弗3:1-13|
+|308|2022/06/4|[奉差向外邦人传福音](https://carmelbible.sgp1.digitaloceanspaces.com/202206/308.mp3)|弗3:1-13|
 |309|2022/06/5|难以测度的爱|弗3:14-21|
 |310|2022/06/6|身体的合一|弗4:1-16|
 |311|2022/06/7|旧人与新人|弗4:17-24|
