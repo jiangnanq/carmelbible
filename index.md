@@ -3,36 +3,38 @@
 
 |序号|日期|主题|经文|
 |---|----|---|---|
-|305|2022/06/1|[保罗的祷告](https://carmelbible.sgp1.digitaloceanspaces.com/202206/305.mp3)|弗1:15-23|
-|306|2022/06/2|[出生入死](https://carmelbible.sgp1.digitaloceanspaces.com/202206/306.mp3)|弗2:1-10|
-|307|2022/06/3|[在基督里合一](https://carmelbible.sgp1.digitaloceanspaces.com/202206/307.mp3)|弗2:11-22|
-|308|2022/06/4|[奉差向外邦人传福音](https://carmelbible.sgp1.digitaloceanspaces.com/202206/308.mp3)|弗3:1-13|
-|309|2022/06/5|[难以测度的爱](https://carmelbible.sgp1.digitaloceanspaces.com/202206/309.mp3)|弗3:14-21|
-|310|2022/06/6|[身体的合一](https://carmelbible.sgp1.digitaloceanspaces.com/202206/310.mp3)|弗4:1-16|
-|311|2022/06/7|[旧人与新人](https://carmelbible.sgp1.digitaloceanspaces.com/202206/311.mp3)|弗4:17-24|
-|312|2022/06/8|[新生活的守则](https://carmelbible.sgp1.digitaloceanspaces.com/202206/312.mp3)|弗4:25-32|
-|313|2022/06/9|[光明的子女](https://carmelbible.sgp1.digitaloceanspaces.com/202206/313.mp3)|弗5:1-21|
-|314|2022/06/10|[丈夫与妻子](https://carmelbible.sgp1.digitaloceanspaces.com/202206/314.mp3)|弗5:22-33|
-|315|2022/06/11|[亲子与主仆关系](https://carmelbible.sgp1.digitaloceanspaces.com/202206/315.mp3)|弗6:1-9|
-|316|2022/06/12|[全服军装与祝福](https://carmelbible.sgp1.digitaloceanspaces.com/202206/316.mp3)|弗6:10-24|
-|317|2022/06/13|[腓立比书简介](https://carmelbible.sgp1.digitaloceanspaces.com/202206/317.mp3)||
-|318|2022/06/14|[问候与祷告](https://carmelbible.sgp1.digitaloceanspaces.com/202206/318.mp3)|腓1:1-11|
-|319|2022/06/15|[为基督而活](https://carmelbible.sgp1.digitaloceanspaces.com/202206/319.mp3)|腓1:12-30|
-|320|2022/06/16|[以基督的心为心](https://carmelbible.sgp1.digitaloceanspaces.com/202206/320.mp3)|腓2:1-11|
-|321|2022/06/17|[明光照耀](https://carmelbible.sgp1.digitaloceanspaces.com/202206/321.mp3)|腓2:12-18|
-|322|2022/06/18|[提摩太与以巴弗提](https://carmelbible.sgp1.digitaloceanspaces.com/202206/322.mp3)|腓2:19-30|
-|323|2022/06/19|[真正的义](https://carmelbible.sgp1.digitaloceanspaces.com/202206/323.mp3)|腓3:1-11|
-|324|2022/06/20|[想着标杆直跑](https://carmelbible.sgp1.digitaloceanspaces.com/202206/324.mp3)|腓3:12-4:1|
-|325|2022/06/21|[劝导](https://carmelbible.sgp1.digitaloceanspaces.com/202206/325.mp3)|腓4:2-9|
-|326|2022/06/22|[知足常乐](https://carmelbible.sgp1.digitaloceanspaces.com/202206/326.mp3)|腓4:10-23|
-|327|2022/06/23|[歌罗西书简介](https://carmelbible.sgp1.digitaloceanspaces.com/202206/327.mp3)||
-|328|2022/06/24|[问候与感谢](https://carmelbible.sgp1.digitaloceanspaces.com/202206/328.mp3)|西1:1-14|
-|329|2022/06/25|[万有之上的基督](https://carmelbible.sgp1.digitaloceanspaces.com/202206/329.mp3)|西1:15-23|
-|330|2022/06/26|[保罗为教会](https://carmelbible.sgp1.digitaloceanspaces.com/202206/330.mp3)|西1:24-2:5|
-|331|2022/06/27|[基督里丰盛的生命](https://carmelbible.sgp1.digitaloceanspaces.com/202206/331.mp3)|西2:6-19|
-|332|2022/06/28|[基督里的新生活](https://carmelbible.sgp1.digitaloceanspaces.com/202206/332.mp3)|西2:20-3:17|
-|333|2022/06/29|[基督徒的家庭责任](https://carmelbible.sgp1.digitaloceanspaces.com/202206/333.mp3)|西3:18-4:1|
-|334|2022/06/30|[劝导与问安](https://carmelbible.sgp1.digitaloceanspaces.com/202206/334.mp3)|西4:2-18|
+|335|2022/07/1|[腓立门书](https://carmelbible.sgp1.digitaloceanspaces.com/202207/335.mp3)|门 1-25|
+|336|2022/07/2|提摩太前书简介|
+|337|2022/07/3|问候，谨防虚假|提前 1:1-11|
+|338|2022/07/4|神的怜悯|提前 1:12-20|
+|339|2022/07/5|代祷的教导|提前 2:1-15|
+|340|2022/07/6|监督的资格|提前 3:1-7|
+|341|2022/07/7|执事的资格|提前 3:8-13|
+|342|2022/07/8|敬虔的奥秘|提前 3:14-16|
+|343|2022/07/9|有人离弃真道|提前 4:1-5|
+|344|2022/07/10|基督耶稣的好执事|提前 4:6-16|
+|345|2022/07/11|对别人的责任|提前 5:1-6:2|
+|346|2022/07/12|假道理与真财富|提前 6:3-10|
+|347|2022/07/13|美好的仗|提前 6:11-21|
+|348|2022/07/14|提摩太后书简介||
+|349|2022/07/15|问候与忠于福音|提后 1:1-18|
+|350|2022/07/16|耶稣基督的精兵|提后 2:1-13|
+|351|2022/07/17|无愧的工人|提后 2:14-26|
+|352|2022/07/18|末世的人性|提后 3:1-9|
+|353|2022/07/19|最后指示|提后 3:10-4:8|
+|354|2022/07/20|个人的吩咐与问安|提后 4:9-22|
+|355|2022/07/21|提多书简介||
+|356|2022/07/22|问候与提多的工作|多 1:1-16|
+|357|2022/07/23|纯正的道理|多 2:1-15|
+|358|2022/07/24|行善与问安|多 3:1-15|
+|359|2022/07/25|希伯来书简介||
+|360|2022/07/26|圣子超越天使|来 1:1-14|
+|361|2022/07/27|救恩的元帅|来 2:1-18|
+|362|2022/07/28|圣子超越摩西|来 3:1-6|
+|363|2022/07/29|进入安息|来 3:7-19|
+|364|2022/07/30|竭力进入安息|来 4:1-13|
+|365|2022/07/31|圣子是大祭司|来 4:14-5:10|
+
 
 ### 历史音频
 
@@ -41,4 +43,4 @@
 |[2021年12月 路加福音 使徒行传](202112)||
 |[2022年1月 使徒行传](202201)|[2022年2月 加拉太书，帖撒罗尼迦前书，帖撒罗尼迦后书](202202)|
 |[2022年3月 帖后，罗马书](202203)|[2022年4月 罗马书, 哥林多前书](202204)|
-|[2022年5月 哥林多前书，哥林多后书，以弗所书](202205)||
+|[2022年5月 哥林多前书，哥林多后书，以弗所书](202205)|[2022年6月 以弗所书，腓立比书，歌罗西书](202206)|
