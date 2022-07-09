@@ -6,12 +6,12 @@
 |335|2022/07/1|[腓立门书](https://carmelbible.sgp1.digitaloceanspaces.com/202207/335.mp3)|门 1-25|
 |336|2022/07/2|[提摩太前书简介](https://carmelbible.sgp1.digitaloceanspaces.com/202207/336.mp3)|
 |337|2022/07/3|[问候，谨防虚假](https://carmelbible.sgp1.digitaloceanspaces.com/202207/337.mp3)|提前 1:1-11|
-|338|2022/07/4|神的怜悯|提前 1:12-20|
-|339|2022/07/5|代祷的教导|提前 2:1-15|
-|340|2022/07/6|监督的资格|提前 3:1-7|
-|341|2022/07/7|执事的资格|提前 3:8-13|
-|342|2022/07/8|敬虔的奥秘|提前 3:14-16|
-|343|2022/07/9|有人离弃真道|提前 4:1-5|
+|338|2022/07/4|[神的怜悯](https://carmelbible.sgp1.digitaloceanspaces.com/202207/338.mp3)|提前 1:12-20|
+|339|2022/07/5|[代祷的教导](https://carmelbible.sgp1.digitaloceanspaces.com/202207/339.mp3)|提前 2:1-15|
+|340|2022/07/6|[监督的资格](https://carmelbible.sgp1.digitaloceanspaces.com/202207/340.mp3)|提前 3:1-7|
+|341|2022/07/7|[执事的资格](https://carmelbible.sgp1.digitaloceanspaces.com/202207/341.mp3)|提前 3:8-13|
+|342|2022/07/8|[敬虔的奥秘](https://carmelbible.sgp1.digitaloceanspaces.com/202207/342.mp3)|提前 3:14-16|
+|343|2022/07/9|[有人离弃真道](https://carmelbible.sgp1.digitaloceanspaces.com/202207/343.mp3)|提前 4:1-5|
 |344|2022/07/10|基督耶稣的好执事|提前 4:6-16|
 |345|2022/07/11|对别人的责任|提前 5:1-6:2|
 |346|2022/07/12|假道理与真财富|提前 6:3-10|
