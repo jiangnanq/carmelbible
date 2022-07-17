@@ -12,14 +12,14 @@
 |341|2022/07/7|[执事的资格](https://carmelbible.sgp1.digitaloceanspaces.com/202207/341.mp3)|提前 3:8-13|
 |342|2022/07/8|[敬虔的奥秘](https://carmelbible.sgp1.digitaloceanspaces.com/202207/342.mp3)|提前 3:14-16|
 |343|2022/07/9|[有人离弃真道](https://carmelbible.sgp1.digitaloceanspaces.com/202207/343.mp3)|提前 4:1-5|
-|344|2022/07/10|基督耶稣的好执事|提前 4:6-16|
-|345|2022/07/11|对别人的责任|提前 5:1-6:2|
-|346|2022/07/12|假道理与真财富|提前 6:3-10|
-|347|2022/07/13|美好的仗|提前 6:11-21|
-|348|2022/07/14|提摩太后书简介||
-|349|2022/07/15|问候与忠于福音|提后 1:1-18|
-|350|2022/07/16|耶稣基督的精兵|提后 2:1-13|
-|351|2022/07/17|无愧的工人|提后 2:14-26|
+|344|2022/07/10|[基督耶稣的好执事](https://carmelbible.sgp1.digitaloceanspaces.com/202207/344.mp3)|提前 4:6-16|
+|345|2022/07/11|[对别人的责任](https://carmelbible.sgp1.digitaloceanspaces.com/202207/345.mp3)|提前 5:1-6:2|
+|346|2022/07/12|[假道理与真财富](https://carmelbible.sgp1.digitaloceanspaces.com/202207/346.mp3)|提前 6:3-10|
+|347|2022/07/13|[美好的仗](https://carmelbible.sgp1.digitaloceanspaces.com/202207/347.mp3)|提前 6:11-21|
+|348|2022/07/14|[提摩太后书简介](https://carmelbible.sgp1.digitaloceanspaces.com/202207/348.mp3)||
+|349|2022/07/15|[问候与忠于福音](https://carmelbible.sgp1.digitaloceanspaces.com/202207/349.mp3)|提后 1:1-18|
+|350|2022/07/16|[耶稣基督的精兵](https://carmelbible.sgp1.digitaloceanspaces.com/202207/350.mp3)|提后 2:1-13|
+|351|2022/07/17|[无愧的工人](https://carmelbible.sgp1.digitaloceanspaces.com/202207/351.mp3)|提后 2:14-26|
 |352|2022/07/18|末世的人性|提后 3:1-9|
 |353|2022/07/19|最后指示|提后 3:10-4:8|
 |354|2022/07/20|个人的吩咐与问安|提后 4:9-22|
