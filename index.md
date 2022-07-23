@@ -20,13 +20,13 @@
 |349|2022/07/15|[问候与忠于福音](https://carmelbible.sgp1.digitaloceanspaces.com/202207/349.mp3)|提后 1:1-18|
 |350|2022/07/16|[耶稣基督的精兵](https://carmelbible.sgp1.digitaloceanspaces.com/202207/350.mp3)|提后 2:1-13|
 |351|2022/07/17|[无愧的工人](https://carmelbible.sgp1.digitaloceanspaces.com/202207/351.mp3)|提后 2:14-26|
-|352|2022/07/18|末世的人性|提后 3:1-9|
-|353|2022/07/19|最后指示|提后 3:10-4:8|
-|354|2022/07/20|个人的吩咐与问安|提后 4:9-22|
-|355|2022/07/21|提多书简介||
-|356|2022/07/22|问候与提多的工作|多 1:1-16|
-|357|2022/07/23|纯正的道理|多 2:1-15|
-|358|2022/07/24|行善与问安|多 3:1-15|
+|352|2022/07/18|[末世的人性](https://carmelbible.sgp1.digitaloceanspaces.com/202207/352.mp3)|提后 3:1-9|
+|353|2022/07/19|[最后指示](https://carmelbible.sgp1.digitaloceanspaces.com/202207/353.mp3)|提后 3:10-4:8|
+|354|2022/07/20|[个人的吩咐与问安](https://carmelbible.sgp1.digitaloceanspaces.com/202207/354.mp3)|提后 4:9-22|
+|355|2022/07/21|[提多书简介](https://carmelbible.sgp1.digitaloceanspaces.com/202207/355.mp3)||
+|356|2022/07/22|[问候与提多的工作](https://carmelbible.sgp1.digitaloceanspaces.com/202207/356.mp3)|多 1:1-16|
+|357|2022/07/23|[纯正的道理](https://carmelbible.sgp1.digitaloceanspaces.com/202207/357.mp3)|多 2:1-15|
+|358|2022/07/24|[行善与问安](https://carmelbible.sgp1.digitaloceanspaces.com/202207/358.mp3)|多 3:1-15|
 |359|2022/07/25|希伯来书简介||
 |360|2022/07/26|圣子超越天使|来 1:1-14|
 |361|2022/07/27|救恩的元帅|来 2:1-18|
