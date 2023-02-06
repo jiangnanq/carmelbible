@@ -2,4 +2,4 @@
 
 查经音频
 
-[网址] (https://jiangnanq.github.io/carmelbible/)
+[网址](https://jiangnanq.github.io/carmelbible/)
