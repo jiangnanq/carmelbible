@@ -3,37 +3,18 @@
 
 |序号|日期|主题|经文|
 |---|----|---|---|
-|335|2022/07/1|[腓立门书](https://carmelbible.sgp1.digitaloceanspaces.com/202207/335.mp3)|门 1-25|
-|336|2022/07/2|[提摩太前书简介](https://carmelbible.sgp1.digitaloceanspaces.com/202207/336.mp3)|
-|337|2022/07/3|[问候，谨防虚假](https://carmelbible.sgp1.digitaloceanspaces.com/202207/337.mp3)|提前 1:1-11|
-|338|2022/07/4|[神的怜悯](https://carmelbible.sgp1.digitaloceanspaces.com/202207/338.mp3)|提前 1:12-20|
-|339|2022/07/5|[代祷的教导](https://carmelbible.sgp1.digitaloceanspaces.com/202207/339.mp3)|提前 2:1-15|
-|340|2022/07/6|[监督的资格](https://carmelbible.sgp1.digitaloceanspaces.com/202207/340.mp3)|提前 3:1-7|
-|341|2022/07/7|[执事的资格](https://carmelbible.sgp1.digitaloceanspaces.com/202207/341.mp3)|提前 3:8-13|
-|342|2022/07/8|[敬虔的奥秘](https://carmelbible.sgp1.digitaloceanspaces.com/202207/342.mp3)|提前 3:14-16|
-|343|2022/07/9|[有人离弃真道](https://carmelbible.sgp1.digitaloceanspaces.com/202207/343.mp3)|提前 4:1-5|
-|344|2022/07/10|[基督耶稣的好执事](https://carmelbible.sgp1.digitaloceanspaces.com/202207/344.mp3)|提前 4:6-16|
-|345|2022/07/11|[对别人的责任](https://carmelbible.sgp1.digitaloceanspaces.com/202207/345.mp3)|提前 5:1-6:2|
-|346|2022/07/12|[假道理与真财富](https://carmelbible.sgp1.digitaloceanspaces.com/202207/346.mp3)|提前 6:3-10|
-|347|2022/07/13|[美好的仗](https://carmelbible.sgp1.digitaloceanspaces.com/202207/347.mp3)|提前 6:11-21|
-|348|2022/07/14|[提摩太后书简介](https://carmelbible.sgp1.digitaloceanspaces.com/202207/348.mp3)||
-|349|2022/07/15|[问候与忠于福音](https://carmelbible.sgp1.digitaloceanspaces.com/202207/349.mp3)|提后 1:1-18|
-|350|2022/07/16|[耶稣基督的精兵](https://carmelbible.sgp1.digitaloceanspaces.com/202207/350.mp3)|提后 2:1-13|
-|351|2022/07/17|[无愧的工人](https://carmelbible.sgp1.digitaloceanspaces.com/202207/351.mp3)|提后 2:14-26|
-|352|2022/07/18|[末世的人性](https://carmelbible.sgp1.digitaloceanspaces.com/202207/352.mp3)|提后 3:1-9|
-|353|2022/07/19|[最后指示](https://carmelbible.sgp1.digitaloceanspaces.com/202207/353.mp3)|提后 3:10-4:8|
-|354|2022/07/20|[个人的吩咐与问安](https://carmelbible.sgp1.digitaloceanspaces.com/202207/354.mp3)|提后 4:9-22|
-|355|2022/07/21|[提多书简介](https://carmelbible.sgp1.digitaloceanspaces.com/202207/355.mp3)||
-|356|2022/07/22|[问候与提多的工作](https://carmelbible.sgp1.digitaloceanspaces.com/202207/356.mp3)|多 1:1-16|
-|357|2022/07/23|[纯正的道理](https://carmelbible.sgp1.digitaloceanspaces.com/202207/357.mp3)|多 2:1-15|
-|358|2022/07/24|[行善与问安](https://carmelbible.sgp1.digitaloceanspaces.com/202207/358.mp3)|多 3:1-15|
-|359|2022/07/25|[希伯来书简介](https://carmelbible.sgp1.digitaloceanspaces.com/202207/359.mp3)||
-|360|2022/07/26|[圣子超越天使](https://carmelbible.sgp1.digitaloceanspaces.com/202207/360.mp3)|来 1:1-14|
-|361|2022/07/27|[救恩的元帅](https://carmelbible.sgp1.digitaloceanspaces.com/202207/361.mp3)|来 2:1-18|
-|362|2022/07/28|[圣子超越摩西](https://carmelbible.sgp1.digitaloceanspaces.com/202207/362.mp3)|来 3:1-6|
-|363|2022/07/29|[进入安息](https://carmelbible.sgp1.digitaloceanspaces.com/202207/363.mp3)|来 3:7-19|
-|364|2022/07/30|[竭力进入安息](https://carmelbible.sgp1.digitaloceanspaces.com/202207/364.mp3)|来 4:1-13|
-|365|2022/07/31|[圣子是大祭司](https://carmelbible.sgp1.digitaloceanspaces.com/202207/365.mp3)|来 4:14-5:10|
+|366|2022/08/1|竭力在真道上完全|来 5:11-6:12|
+|367|2022/08/2|确切的应许|来 6:13-20|
+|368|2022/08/3|麦基洗德的祭司职分|来 7:1-28|
+|369|2022/08/4|圣子超越麦基洗德|来 8:1-13|
+|370|2022/08/5|圣所|来 9:1-22|
+|371|2022/08/6|基督献己除罪|来 9:23-10:18|
+|372|2022/08/7|劝勉与警戒|来 10:19-39|
+|373|2022/08/8|信心|来 11:1-40|
+|374|2022/08/9|主的管教|来 12:1-13|
+|375|2022/08/10|管戒弃绝恩典的认|来 12:14-29|
+|376|2022/08/11|蒙神悦纳的服侍|来 13:1-19|
+|377|2022/08/12|问安与祝福|来 13:20-25|
 
 
 ### 历史音频
